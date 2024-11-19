@@ -6,7 +6,7 @@
 | | | 
 |:-|---|
 | Nombre del curso		|  Fundamentos de Programación en Python para las CCSS y Gestión Pública  | 
-| Profesor del curso		|  Victor Fuentes Campos  | 
+| Profesor del curso		|  Víctor Fuentes Campos  | 
 | Correo electrónico PUCP	|  vfuentes@pucp.edu.pe| 
 
 

@@ -176,18 +176,6 @@ Puedes clonar tu repo existente o clonar el repo existente de alguien más para 
 
 <a name="myfootnote2">[2]</a> Para mayor información sobre clonar un repo en diferentes OS (Mac, Windows, Linux), revisar la [documentación de GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-#### 7. Probemos clonando el repo de una tarea ficticia de Intro a GitHub
-
-- Al finalizar la clase de hoy estará disponible la Tarea Nº 1 en Canvas, la cual deberá ser entregada hasta las 11:59pm del jueves 4 de enero de 2024
-
-- En Canvas, se activará el link para el repo de la tarea. Dicho link será parecido a este https://classroom.github.com/a/A1TvRWfw
-
-- Le damos click, ubicamos nuestro nombre y luego vamos a "Accept this assignment"
-
-- Se creará un repo con tu usuario de Github al final
-
-- Usemos este repo para practicar! 
-
 
 ## B. Python
 

@@ -8,7 +8,7 @@ las clases previas de Carla Solís y Alexander Quispe.
 
 ### **Antes de empezar**
 1. ¿Ya tienes una cuenta de GitHub? De no ser así, creálo ahora https://github.com/join. Ojo: al usar un correo de educación (@pucp), puedes acceder a una [cuenta GitHub Pro](https://education.github.com/students)
-2. Añade tu usuario de GitHub al [archivo Excel compartido](https://docs.google.com/spreadsheets/d/13o35bMhi06RmSUP-nJ8mqBaJiKlQN-ngJspjB1lLp-E/edit?usp=sharing) (usa tu cuenta @pucp)
+2. Añade tu usuario de GitHub al [archivo Excel compartido](https://docs.google.com/spreadsheets/d/1VXDGj7k5f8QXcTJXc9_Usfok0KblfYK5Rqgw0dm7d30/edit?usp=sharing) (usa tu cuenta @pucp)
 3. ¿Ya instalaste GitHub Desktop? De no ser así, descárgalo de https://desktop.github.com/ e instálalo
 4. ¿Ya iniciaste sesión en GitHub Desktop? De no ser así, inicia sesión con tu cuenta creada
 5. ¿Ya abriste el repo del curso https://github.com/qlab-intro-python/verano-2024-macro-finance?

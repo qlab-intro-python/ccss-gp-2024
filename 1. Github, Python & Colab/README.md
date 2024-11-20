@@ -12,7 +12,7 @@ las clases previas de Carla Solís y Alexander Quispe.
 3. ¿Ya instalaste GitHub Desktop? De no ser así, descárgalo de https://desktop.github.com/ e instálalo
 4. ¿Ya iniciaste sesión en GitHub Desktop? De no ser así, inicia sesión con tu cuenta creada
 5. ¿Ya abriste el repo del curso [https://github.com/qlab-intro-python/ccss-gp-2024](https://github.com/qlab-intro-python/ccss-gp-2024)?
-6. 6. ¿Ya tienes un editor de texto instalado? En mi caso uso [Visual Studio Code](https://code.visualstudio.com/), pero también está [Sublime](https://www.sublimetext.com/) y [Jupyter](https://jupyter.org/)
+6. ¿Ya tienes un editor de texto instalado? En mi caso uso [Visual Studio Code](https://code.visualstudio.com/), pero también está [Sublime](https://www.sublimetext.com/) y [Jupyter](https://jupyter.org/)
 
 ### **El problema**
 <div> <img src="https://pbs.twimg.com/media/EiG-dwJVkAA-J0L?format=jpg&name=medium" width="300"/> </div>
